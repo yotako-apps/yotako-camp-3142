@@ -1,0 +1,686 @@
+.style-0 {
+  background-color: rgba(238,238,238,1)
+}
+.style-1 {
+  background-color: rgba(43,120,228,1);
+  border: 1px solid rgba(0,0,0,1);
+  -webkit-box-shadow: 4px 4px 0 0 rgba(0,0,0,1);
+  box-shadow: 4px 4px 0 0 rgba(0,0,0,1)
+}
+.style-2 {
+  color: rgba(255,255,255,1);
+  text-align: center;
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 14px;
+  font-weight: 700
+}
+.style-3 {
+  color: rgba(51,51,51,1);
+  text-align: center;
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 35px
+}
+.style-4 {
+  background-color: rgba(207,42,39,1)
+}
+.style-5 {
+  color: rgba(255,255,255,1);
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 30px
+}
+.style-7 {
+  color: rgba(102,102,102,1);
+  text-align: center;
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 22px
+}
+.style-9 {
+  background-color: rgba(51,51,51,1)
+}
+.style-10 {
+  color: rgba(255,255,255,1);
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 30px
+}
+.style-11 {
+  background-color: rgba(153,153,153,1);
+  border: 1px solid rgba(0,0,0,1);
+  -webkit-box-shadow: 4px 4px 0 0 rgba(0,0,0,1);
+  box-shadow: 4px 4px 0 0 rgba(0,0,0,1)
+}
+.style-12 {
+  text-align: center;
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 14px
+}
+.style-14 {
+  color: rgba(255,255,255,1);
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 35px
+}
+.style-15 {
+  color: rgba(255,255,255,1);
+  text-align: center;
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 19px
+}
+.style-16 {
+  background-color: rgba(255,255,255,1);
+  border: 1px solid rgba(51,51,51,1)
+}
+.style-17 {
+  background-color: rgba(207,42,39,1);
+  border: 1px solid rgba(0,0,0,1);
+  -webkit-box-shadow: 4px 4px 0 0 rgba(0,0,0,1);
+  box-shadow: 4px 4px 0 0 rgba(0,0,0,1)
+}
+.style-18 {
+  color: rgba(255,255,255,1);
+  text-align: center;
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 14px;
+  font-weight: 700
+}
+.style-19 {
+  color: rgba(255,255,255,1);
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 19px
+}
+.style-20 {
+  color: rgba(255,255,255,1);
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 19px
+}
+.style-21 {
+  background-color: rgba(51,51,51,1)
+}
+.style-23 {
+  background-color: rgba(238,238,238,1)
+}
+.style-28 {
+  background-image: url(https://designresources.assets.yotako.io/png/2017-12-06-16-36:1512578214493.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center
+}
+.style-31 {
+  background-color: rgba(102,102,102,1)
+}
+.style-33 {
+  color: rgba(238,238,238,1);
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 14px
+}
+.style-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 99.818%;
+  z-index: 0;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial
+}
+.style-4 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  width: 100%;
+  height: 16.181%;
+  z-index: 4;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.home-container-0-container-1-row-0 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  margin: 35px 0 0 4.76%;
+  width: 82.222%;
+  height: 43.82%;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-5 {
+  position: initial;
+  width: 52.123%;
+  z-index: 5;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-6 {
+  position: initial;
+  margin: 0 0 0 36.29%;
+  width: 11.583%;
+  height: 76.923%;
+  z-index: 6;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-3 {
+  position: initial;
+  margin: 17px 0 0 8.88%;
+  width: 81.269%;
+  z-index: 3;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-7 {
+  position: initial;
+  margin: 14px 0 0 9.84%;
+  width: 79.365%;
+  z-index: 7;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-8 {
+  position: initial;
+  margin: 19px 0 0 30.47%;
+  width: 37.46%;
+  height: 21.09%;
+  z-index: 8;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-1 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  margin: 19px 0 0 27.93%;
+  width: 43.492%;
+  height: 12%;
+  z-index: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-2 {
+  position: initial;
+  margin: 32px 0 0 0;
+  width: 100%;
+  z-index: 2;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial
+}
+.login-container-0-row-0 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-box-align: initial;
+  -webkit-align-items: initial;
+  -ms-flex-align: initial;
+  align-items: initial;
+  margin: 33px 0 0 5.07%;
+  width: 90.476%;
+  height: 7.078%;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-10 {
+  position: initial;
+  width: 47.368%;
+  z-index: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-11 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  margin: 6px 0 0 30.52%;
+  width: 22.105%;
+  height: 69.23%;
+  z-index: 2;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-12 {
+  position: initial;
+  margin: 8px 0 0 0;
+  width: 100%;
+  z-index: 3;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-13 {
+  position: initial;
+  margin: 17px 0 0 35.23%;
+  width: 28.571%;
+  height: 16.333%;
+  z-index: 4;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-14 {
+  position: initial;
+  margin: 0 0 0 1.9%;
+  width: 95.555%;
+  z-index: 5;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-15 {
+  position: initial;
+  margin: 17px 0 0 11.42%;
+  width: 76.19%;
+  z-index: 6;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-16 {
+  position: initial;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 12px 0 0 1.9%;
+  width: 96.507%;
+  height: 1.814%;
+  z-index: 7;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-17 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  margin: 56px 0 0 2.22%;
+  width: 94.92%;
+  height: 11.978%;
+  z-index: 8;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-18 {
+  position: initial;
+  margin: 32px 0 0 0;
+  width: 100%;
+  z-index: 9;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-19 {
+  position: initial;
+  margin: 30px 0 0 15.23%;
+  width: 68.571%;
+  z-index: 10;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-20 {
+  position: initial;
+  margin: 11px 0 0 11.42%;
+  width: 76.19%;
+  z-index: 11;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-21 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 12.341%;
+  z-index: 0;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial
+}
+.app-container-0-row-0 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  margin: 40px 0 0 1.26%;
+  width: 95.873%;
+  height: 32.352%;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-28 {
+  position: initial;
+  width: 6.622%;
+  height: 90.909%;
+  z-index: 7;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-29 {
+  position: initial;
+  margin: 0 0 0 2.98%;
+  width: 6.622%;
+  height: 90.909%;
+  z-index: 8;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-30 {
+  position: initial;
+  margin: 0 0 0 3.31%;
+  width: 6.622%;
+  height: 90.909%;
+  z-index: 9;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-31 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  margin: 0 0 0 28.14%;
+  width: 45.695%;
+  height: 100%;
+  z-index: 10;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.app-container-0-row-0-container-2-row-0 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  margin: 1px 0 0 5.79%;
+  width: 67.391%;
+  height: 90.909%;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-32 {
+  position: initial;
+  width: 15.053%;
+  height: 60%;
+  z-index: 11;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-33 {
+  position: initial;
+  margin: 0 0 0 17.2%;
+  width: 67.741%;
+  z-index: 12;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-23 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  margin: 11px 0 0 0;
+  width: 100%;
+  height: 105.882%;
+  z-index: 2;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.app-container-0-container-1-row-0 {
+  position: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  margin: 2px 0 0 1.26%;
+  width: 97.46%;
+  height: 94.444%;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-24 {
+  position: initial;
+  width: 21.498%;
+  height: 89.705%;
+  z-index: 3;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-25 {
+  position: initial;
+  width: 22.475%;
+  height: 100%;
+  z-index: 4;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-26 {
+  position: initial;
+  width: 24.755%;
+  height: 85.294%;
+  z-index: 5;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-27 {
+  position: initial;
+  width: 21.498%;
+  height: 80.882%;
+  z-index: 6;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-22 {
+  margin: 82px 0 0 0;
+  width: 99.682%;
+  height: 74.954%;
+  z-index: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
